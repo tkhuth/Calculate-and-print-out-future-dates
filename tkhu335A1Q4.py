@@ -1,12 +1,6 @@
 """
-Name: Khuth Taiyo
-Username: tkhu335
-StudentID: 929289904
-
 Calculate and print out the future date
 """
-
-
 prompt1 = input("Enter today's date (dd/mm/yyyy): ")
 prompt2 = int(input("Enter the number of days: "))
 index1 = (prompt1.find("/"))
